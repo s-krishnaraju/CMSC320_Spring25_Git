@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Biology. Bioinformatics is a huge part of biology and data science is applied a lot in it
