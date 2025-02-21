@@ -4,3 +4,8 @@ Answer: Because it is very useful when working on a project
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Biology. Bioinformatics is a huge part of biology and data science is applied a lot in it
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: merging is when you combine changes from one branch to another by creating a merge commit while
+in rebasing you move your feature branch to the tip of the target branch
